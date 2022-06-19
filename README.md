@@ -10,13 +10,18 @@ Utilizing AI technology stack and ML algorithms for
 
 
 
-1. **Research**- Rainfall prediction using radar images over Delhi region, during monsoon season (accuracy margin > 95%). Use case- rainfall forecast data from 3rd party sources is highly inaccurate in monsoon season, causing high MAPE in electricity demand forecasting.
-
-Challenges- Highly sparse data, textual noise in images, unpredictable cloud movement and reflectivity.
-Solutions-  1. Domain expertise and EDA to cluster similar weather conditions
-	    2. Keras OCR pipelines to remove textual noise
-	    3. Prediction using attention LSTM
-	    4. Use of GANs to improve output resolutions for further use
+## 1. **Research**- 
+> Rainfall prediction using radar images over Delhi region, during monsoon season (accuracy margin > 95%). Use case- rainfall forecast data from 3rd party sources is highly inaccurate in monsoon season, causing high MAPE in electricity demand forecasting.
+>
+> Challenges 
+> 1. Highly sparse data, textual noise in images
+> 2. unpredictable cloud movement and reflectivity.
+> 
+> Solutions  
+> 1. Domain expertise and EDA to cluster similar weather conditionns
+> 2. Keras OCR pipelines to remove textual noise
+> 3. Prediction using attention LSTM
+> 4. Use of GANs to improve output resolutions for further use
 
 2. **Predictive analytics**- intraday, day ahead, week ahead, year ahead forecasting using NNs, RNN, ARIMA, Boosting, transfer learning (modelling time margin < 15 sec, data size > 2 GBs, mape< 1.5 for intraday and day ahead); Clients- BRPL, BYPL, CSPTCL, PSPCL.
 
