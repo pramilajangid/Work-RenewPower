@@ -39,7 +39,9 @@ Utilizing AI technology stack and ML algorithms for
 > 2. Ensemble modelling to choose models with the best forecast during different conditions
 > 3. Using similarity based techniques(dynamic time warping), fuzzy logics, domain expertise to refine the forecasts
 
-3. **Windows system application for modelling** 
+## 3. **Windows system application for modelling** 
+*role- Machine Learning Lead*
+
 > Application running 8 NN based complex models for 120 different areas, to be run simultaneously every 15 min.; each data size >5 GBs) and forecasting for next 8 days.
 > 
 > Clients- JKSPDC, General Electric (GE)
